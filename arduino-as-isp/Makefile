@@ -22,7 +22,7 @@ LIBDIR = ../../AVR-Programming-Library
 
 PROGRAMMER_TYPE = avrisp
 # extra arguments to avrdude: baud rate, chip type, -F flag, etc.
-PROGRAMMER_ARGS = -b 19200 -P /dev/cu.usbmodem1421
+PROGRAMMER_ARGS = -b 19200 -P /dev/cu.usbmodem1451
 
 ##########------------------------------------------------------##########
 ##########                  Program Locations                   ##########
