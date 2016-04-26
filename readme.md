@@ -6,4 +6,4 @@
 
 ## AVR Programmer Ready for Programming (should see a blinking LED)
 
-1['terminal command for avr status'](./arduino-as-isp/avr-ready.png)
+!['terminal command for avr status'](./arduino-as-isp/avr-ready.png)
